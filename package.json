@@ -7,7 +7,7 @@
         "test": "jest",
         "start": "nodemon src/index.js"
     },
-    "author": "Yurii",
+    "author": "Jessika",
     "license": "ISC",
     "dependencies": {
         "ejs": "^3.1.6",
